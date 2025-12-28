@@ -56,3 +56,7 @@ Ariane Keigoum,
 Software Engineering Student,
 Project developed for learning purposes
 
+<img width="1366" height="768" alt="Capture" src="https://github.com/user-attachments/assets/7d225035-b4e4-47fc-b3db-a6b00562c3fb" />
+<img width="1366" height="768" alt="4" src="https://github.com/user-attachments/assets/35d95452-6688-4900-a76e-34c42db3bbc4" />
+
+
